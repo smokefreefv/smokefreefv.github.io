@@ -2,29 +2,11 @@
 
 ## Summary
 
-Second-hand smoke jeopardizes the health, safety, and comfort of residents in our community. We are residents of Fairlington Villages requesting that the Fairlington Villages Board of Directors enact a policy that prohibits smoking within all units, patios, balconies, and common areas.
+Second-hand smoke jeopardizes the health, safety, and comfort of residents in our community. We are residents of Fairlington Villages requesting that the Board of Directors enact a policy that prohibits smoking within all units, patios, balconies, and common areas.
 
-## How to Support
+[⬇️ How to support the effort](#how-to-support)
 
-You can work toward a smoke-free Fairlington Villages by doing the following:
-
-- Sign the petition. An online petition is available here. This will be regularly provided to board members to show support for the cause.
-- Speak at a Fairlington Villages board meeting in support of a smoking ban. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically once a month on Wednesdays.
-- Email board members and express your support of a smoking ban. We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png) and see the list below.
-
-| Ward     | Name               | Email                      |
-| -------- | ------------------ | -------------------------- |
-| 1        | Kate Lankford      | ward1fairlington@gmail.com |
-| 2        | Donna Volpone      | dvolpone@icloud.com        |
-| 3        | Harry Reem         | hnreem@comcast.net         |
-| 4        | Larry Straub       | larrystraub93@gmail.com    |
-| 5        | Phil Brown         | PBrownBoard@pjb3.com       |
-| 6        | Melanie Alvord     | mellie.ward6@comcast.net   |
-| At Large | Joe Torres         | Fairlington123@yahoo.com   |
-| At Large | Andi Dies          | multiboard@verizon.net     |
-| At Large | Karen Olson Weaver | karen@olsonweaver.com      |
-
-## Questions and Answers
+## Frequently Asked Questions
 
 **Wow, a smoking ban? Isn't that a bit harsh?**  
 It's the only way to ensure that residents of Fairlington Villages can enjoy their homes and yards without second-hand smoke.
@@ -66,6 +48,30 @@ Yes, including several in Arlington. None have yet done so in Fairlington.
 Enforcement practices would be hashed out in a smoking policy which would formalize the smoking ban. We are learning about enforcement practices from local condo associations who have already banned smoking. By their accounts, their efforts have been successful.
 
 **We will never convince enough people to make this happen.**  
-Only a majority of the Fairlington Villages board -- five out of nine board members -- need to agree in order to approve a smoking ban. Some of them are already inclined to support a ban.
+Only a majority of the Fairlington Villages board — five out of nine board members — need to support a smoking ban to enact it. Some are already supportive.
 
-Thank you for your support.
+## How to Support
+
+You can work toward a smoke-free Fairlington Villages by doing the following:
+
+- **Sign the petition**. [An online petition is available here](https://docs.google.com/forms/d/e/1FAIpQLSezUZH42kQHHs5qPNJCSO-hwNnBhsD6h9xtpJQD9-REoAPhbw/viewform?usp=sf_link). The petition will be provided to board members to show support for the cause.
+- **Speak at a Fairlington Villages board meeting in support of a smoking ban**. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You don't need to sign up ahead of time to speak.
+- **Email board members and express your support of a smoking ban**. We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png) and see the list below.
+
+<div align="center">
+
+| Ward     | Name               | Email                                                           |
+| -------- | ------------------ | --------------------------------------------------------------- |
+| 1        | Kate Lankford      | [ward1fairlington@gmail.com](mailto:ward1fairlington@gmail.com) |
+| 2        | Donna Volpone      | [dvolpone@icloud.com](mailto:dvolpone@icloud.com)               |
+| 3        | Harry Reem         | [hnreem@comcast.net](mailto:hnreem@comcast.net)                 |
+| 4        | Larry Straub       | [larrystraub93@gmail.com](mailto:larrystraub93@gmail.com)       |
+| 5        | Phil Brown         | [PBrownBoard@pjb3.com](mailto:PBrownBoard@pjb3.com)             |
+| 6        | Melanie Alvord     | [mellie.ward6@comcast.net](mailto:mellie.ward6@comcast.net)     |
+| At Large | Joe Torres         | [Fairlington123@yahoo.com](mailto:Fairlington123@yahoo.com)     |
+| At Large | Andi Dies          | [multiboard@verizon.net](mailto:multiboard@verizon.net)         |
+| At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)           |
+
+</div>
+
+Thank you for your support!
