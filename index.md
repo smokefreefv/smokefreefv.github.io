@@ -58,8 +58,6 @@ You can work toward a smoke-free Fairlington Villages by doing the following:
 - **Speak at a Fairlington Villages board meeting in support of a smoking ban**. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You don't need to sign up ahead of time to speak.
 - **Email board members and express your support of a smoking ban**. We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png) and see the list below.
 
-<div align="center">
-
 | Ward     | Name               | Email                                                           |
 | -------- | ------------------ | --------------------------------------------------------------- |
 | 1        | Kate Lankford      | [ward1fairlington@gmail.com](mailto:ward1fairlington@gmail.com) |
@@ -71,7 +69,5 @@ You can work toward a smoke-free Fairlington Villages by doing the following:
 | At Large | Joe Torres         | [Fairlington123@yahoo.com](mailto:Fairlington123@yahoo.com)     |
 | At Large | Andi Dies          | [multiboard@verizon.net](mailto:multiboard@verizon.net)         |
 | At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)           |
-
-</div>
 
 Thank you for your support!
