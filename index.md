@@ -35,10 +35,10 @@ Vaping isn't covered by the Virginia statute, so a proposed smoking ban would no
 **What if we just banned smoking outdoors, and continued to allow residents to smoke in their own units?**  
 That would probably cause individuals who currently smoke outdoors to smoke indoors, which would be far more uncomfortable for their immediate neighbors. It would also increase the risk of house fires.
 
-**What if we created a designated area of the community for smokers?**
+**What if we created a designated area of the community for smokers?**  
 Any nonsmoker living in or around such an area would likely be very unhappy with this. It's not practical.
 
-**What would all of the smokers do once a smoking ban is in place?**  
+**What would smokers do once a smoking ban is in place?**  
 Cigarette smokers can chew nicotine gum or use nicotine patches. Cannabis smokers can consume edibles.
 
 **Is this fair to people who bought units expecting that they would be able to smoke?**  
@@ -58,8 +58,8 @@ Only a majority of the Fairlington Villages board — five out of nine board mem
 You can work toward a smoke-free Fairlington Villages by doing the following:
 
 - **Sign the petition**. [An online petition is available here](https://docs.google.com/forms/d/e/1FAIpQLSezUZH42kQHHs5qPNJCSO-hwNnBhsD6h9xtpJQD9-REoAPhbw/viewform?usp=sf_link). The petition will be provided to board members to show support for the cause.
-- **Speak at a Fairlington Villages board meeting in support of a smoking ban**. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You don't need to sign up ahead of time to speak.
-- **Email board members and express your support of a smoking ban**. We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png).
+- **Speak at a Fairlington Villages board meeting in support of a smoking ban**. Board members can be swayed by personal testimony, especially from those who have had adverse experiences dealing with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You don't need to sign up ahead of time to speak.
+- **Email board members and express your support of a smoking ban**. We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png). If you have personal experience in dealing with second-hand smoke, make sure to describe that in your email.
 
 | Ward     | Name               | Email                                                           |
 | -------- | ------------------ | --------------------------------------------------------------- |
