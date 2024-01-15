@@ -3,10 +3,9 @@ layout: page
 title: "Smoke-Free Fairlington Villages"
 ---
 
-# Smoke-Free Fairlington Villages
-
-<link rel="stylesheet" type="text/css" href="css/github-markdown.css">
 <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon">
+
+# Smoke-Free Fairlington Villages
 
 ## Summary
 
