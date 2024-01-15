@@ -9,7 +9,7 @@ Second-hand smoke jeopardizes the health, safety, and comfort of residents in ou
 ## Frequently Asked Questions
 
 **Wow, a smoking ban? Isn't that a bit harsh?**  
-It's the only way to ensure that residents of Fairlington Villages can enjoy their homes, yards and balconies without second-hand smoke.
+It's the only way to ensure that residents of Fairlington Villages can enjoy their homes, patios and balconies without second-hand smoke.
 
 **Would a smoking ban be legal?**  
 Yes. In 2021, Virginia passed a law allowing a simple majority of any condo board to prohibit smoking within units and in common areas. It was codified as [§ 55.1-1960.1](https://law.lis.virginia.gov/vacode/title55.1/chapter19/section55.1-1960.1/).
@@ -33,7 +33,7 @@ The Virginia statute creates a simple process for a ban on smoking. If people ha
 Vaping isn't covered by the Virginia statute, so a proposed smoking ban would not affect vaping.
 
 **What if we just banned smoking outdoors, and continued to allow residents to smoke in their own units?**  
-That would probably cause individuals who currently smoke outdoors to smoke indoors, which would be far more uncomfortable for their immediate neighbors. It would also increase the risk of house fires.
+That would cause individuals who currently smoke outdoors to smoke indoors, which would be far more uncomfortable for their immediate neighbors. It would also increase the risk of house fires.
 
 **What if we created a designated area of the community for smokers?**  
 Any nonsmoker living in or around such an area would likely be very unhappy with this. It's not practical.
@@ -42,7 +42,7 @@ Any nonsmoker living in or around such an area would likely be very unhappy with
 Cigarette smokers can chew nicotine gum or use nicotine patches. Cannabis smokers can consume edibles.
 
 **Is this fair to people who bought units expecting that they would be able to smoke?**  
-Smoking in perpetuity in and around one's home was never guaranteed. Cultural norms have changed. We tolerate smoking in a lot fewer places than we used to, which most people regard as an improvement. People can now expect smoke-free air at a mall or restaurant. The same should be true in our homes, yards and balconies.
+Smoking in perpetuity in and around one's home was never guaranteed. Cultural norms have changed. We tolerate smoking in a lot fewer places than we used to, which most people regard as an improvement. People can now expect smoke-free air at a mall or restaurant. The same should be true in our homes, patios and balconies.
 
 **Has any other local condo association implemented a ban like this?**  
 Yes, including several in Arlington. None have yet done so in Fairlington.
@@ -73,4 +73,4 @@ You can work toward a smoke-free Fairlington Villages by doing the following:
 | At Large | Andi Dies          | [multiboard@verizon.net](mailto:multiboard@verizon.net)         |
 | At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)           |
 
-Thank you for your support!
+**Thank you for your support!**
