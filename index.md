@@ -1,5 +1,16 @@
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
 
+<style>
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+.site-footer {
+    display: none;
+    visibility: hidden;
+}
+</style>
+
 ## Summary
 
 Second-hand smoke jeopardizes the health, safety, and comfort of residents in our community. We are residents of Fairlington Villages requesting that the Board of Directors enact a policy that prohibits smoking within all units, patios, balconies, and common areas.
@@ -58,8 +69,9 @@ Only a majority of the Fairlington Villages board — five out of nine board mem
 You can work toward a smoke-free Fairlington Villages by doing the following:
 
 - **Sign the petition.** [An online petition is available here.](https://docs.google.com/forms/d/e/1FAIpQLSezUZH42kQHHs5qPNJCSO-hwNnBhsD6h9xtpJQD9-REoAPhbw/viewform?usp=sf_link) The petition will be provided to board members to show support for the cause.
+- **Share this webpage with your neighbors.**
 - **Speak at a Fairlington Villages board meeting in support of a smoking ban.** Board members can be swayed by personal testimony, especially from those who have had adverse experiences with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You don't need to sign up ahead of time to speak.
-- **Email board members and express your support of a smoking ban.** We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png). If you have personal experience in dealing with second-hand smoke, make sure to describe that in your email.
+- **Email board members and express your support of a smoking ban.** We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png). If you have personal experience with second-hand smoke, make sure to describe that in your email.
 
 | Ward     | Name               | Email                                                           |
 | -------- | ------------------ | --------------------------------------------------------------- |
