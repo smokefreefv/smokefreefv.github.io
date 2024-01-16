@@ -2,8 +2,9 @@
 
 <style>
 table {
-    margin-left: auto;
-    margin-right: auto;
+    display: table;
+    width: initial;
+    margin: 0 auto;
 }
 .site-footer {
     display: none;
