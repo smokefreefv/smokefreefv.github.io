@@ -27,7 +27,7 @@ It's a common complaint among residents here. It's often mentioned in the Fairli
 Most people do, including homebuyers. Homes that smell like smoke sell for much less. A homebuyer recently backed out of a contingent home purchase due to Fairlington Villages' lack of a no-smoking policy. Our neighbors with asthma also care a great deal.
 
 **What's next, a ban on barbecue? A ban on strong-smelling food?**  
-The Virginia statute creates a simple process for a ban on smoking. If people have good-faith issues with other odors or habits, it's a separate conversation and a separate process that is irrelevant to this issue. Creating a "slippery slope" hypothetical is a failure to engage in the matter at hand.
+The Virginia statute creates a simple process for a ban on smoking. If people have good-faith issues with other odors or habits, it's a separate conversation and a separate process that is irrelevant to this issue. Creating a "slippery slope" hypothetical is a failure to engage with the matter at hand.
 
 **What about vaping?**  
 Vaping isn't covered by the Virginia statute, so a proposed smoking ban would not affect vaping.
@@ -42,10 +42,10 @@ Any nonsmoker living in or around such an area would likely be very unhappy with
 Cigarette smokers can chew nicotine gum or use nicotine patches. Cannabis smokers can consume edibles.
 
 **Is this fair to people who bought units expecting that they would be able to smoke?**  
-Smoking in perpetuity in and around one's home was never guaranteed. Cultural norms have changed. We tolerate smoking in a lot fewer places than we used to, which most people regard as an improvement. People can now expect smoke-free air at a mall or restaurant. The same should be true in our homes, patios and balconies.
+Smoking in perpetuity in and around one's home was never guaranteed. Cultural norms have changed. We tolerate smoking in far fewer places than we used to, which most people regard as an improvement. People can now expect smoke-free air at a mall or restaurant. The same should be true in our homes, patios and balconies.
 
 **Has any other local condo association implemented a ban like this?**  
-Yes, including several in Arlington. None have yet done so in Fairlington.
+Yes, including several in Arlington and Alexandria. None have yet done so in Fairlington.
 
 **How would we handle enforcement?**  
 Enforcement practices would be spelled out in a smoking policy which would formalize the smoking ban. We are learning about enforcement practices from local condo associations who have already banned smoking. By their accounts, their efforts have been successful.
@@ -57,9 +57,9 @@ Only a majority of the Fairlington Villages board — five out of nine board mem
 
 You can work toward a smoke-free Fairlington Villages by doing the following:
 
-- **Sign the petition**. [An online petition is available here](https://docs.google.com/forms/d/e/1FAIpQLSezUZH42kQHHs5qPNJCSO-hwNnBhsD6h9xtpJQD9-REoAPhbw/viewform?usp=sf_link). The petition will be provided to board members to show support for the cause.
-- **Speak at a Fairlington Villages board meeting in support of a smoking ban**. Board members can be swayed by personal testimony, especially from those who have had adverse experiences dealing with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You don't need to sign up ahead of time to speak.
-- **Email board members and express your support of a smoking ban**. We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png). If you have personal experience in dealing with second-hand smoke, make sure to describe that in your email.
+- **Sign the petition.** [An online petition is available here.](https://docs.google.com/forms/d/e/1FAIpQLSezUZH42kQHHs5qPNJCSO-hwNnBhsD6h9xtpJQD9-REoAPhbw/viewform?usp=sf_link) The petition will be provided to board members to show support for the cause.
+- **Speak at a Fairlington Villages board meeting in support of a smoking ban.** Board members can be swayed by personal testimony, especially from those who have had adverse experiences with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You don't need to sign up ahead of time to speak.
+- **Email board members and express your support of a smoking ban.** We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png). If you have personal experience in dealing with second-hand smoke, make sure to describe that in your email.
 
 | Ward     | Name               | Email                                                           |
 | -------- | ------------------ | --------------------------------------------------------------- |
