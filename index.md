@@ -34,13 +34,13 @@ The smell bothers most people, including homebuyers. Homes that smell like smoke
 It's a common complaint among residents here. It's often mentioned in the Fairlington Villages newsletter.
 
 **What's next, a ban on barbecue? A ban on strong-smelling food?**  
-Employing a "slippery slope" argument is a failure to engage with the matter at hand. The Virginia statute creates a streamlined and explicit pathway for banning smoking — nothing else — because second-hand smoke causes cancer and is wildly unpopular. If residents have good-faith issues with other odors or habits, they are free to raise them with the community.
+Employing a "slippery slope" argument is a failure to engage with the matter at hand. [The Virginia statute](https://law.lis.virginia.gov/vacode/title55.1/chapter19/section55.1-1960.1/) creates a streamlined and explicit pathway for banning smoking — nothing else — because second-hand smoke causes cancer and is wildly unpopular. If residents have good-faith issues with other odors or habits, they are free to raise them with the community.
 
 **What about vaping?**  
 Vaping is not covered by the Virginia statute, so a smoking ban would not affect vaping.
 
-**What if we just banned smoking outdoors, and continued to allow residents to smoke in their own homes?**  
-That would cause individuals who currently smoke outdoors to smoke indoors, which would be far more uncomfortable for their immediate neighbors. It would also increase the risk of house fires.
+**What if we just banned smoking outdoors, and continued to allow residents to smoke indoors?**  
+That would lead to more indoor smoking, which would be far more uncomfortable for immediate neighbors. It would also increase the risk of house fires.
 
 **What if we created a designated area of the community for smokers?**  
 Any nonsmoker living in or around such an area would be furious. It's not practical.
@@ -64,9 +64,9 @@ We only need to convince five out of nine members of the Fairlington Villages bo
 
 You can work toward a smoke-free Fairlington Villages by doing the following:
 
-- **Sign the petition.** [An online petition is available here.](https://docs.google.com/forms/d/e/1FAIpQLSezUZH42kQHHs5qPNJCSO-hwNnBhsD6h9xtpJQD9-REoAPhbw/viewform?usp=sf_link) More than one adult per household may sign — please invite spouses, partners and roommates to have their say. The petition will be provided to board members to show support for the cause.
+- **Sign the petition.** [An online petition is available here.](https://docs.google.com/forms/d/e/1FAIpQLSezUZH42kQHHs5qPNJCSO-hwNnBhsD6h9xtpJQD9-REoAPhbw/viewform?usp=sf_link) The petition will be provided to board members to show support for the cause. More than one adult per household may sign — please invite spouses, partners and roommates to have their say.
 - **Share this webpage with your neighbors.** Help fellow residents understand that a smoking ban is desirable and possible.
-- **Speak at a Fairlington Villages board meeting in support of a smoking ban.** Board members can be swayed by personal testimony, especially from those who have had adverse experiences with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You do not need to sign up ahead of time to speak. You can speak in person or on Zoom.
+- **Speak at a Fairlington Villages board meeting in support of a smoking ban.** Board members can be swayed by personal testimony, especially from those who have had adverse experiences with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You can speak in person or on Zoom. You do not need to sign up ahead of time to speak.
 - **Email board members and express your support of a smoking ban.** We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png). If you have personal experience with second-hand smoke, make sure to describe that in your email.
 
 | Ward     | Name               | Email                                                           |
