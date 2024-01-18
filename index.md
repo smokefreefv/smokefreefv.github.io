@@ -16,7 +16,7 @@ Second-hand smoke jeopardizes the health, safety, and comfort of residents in ou
 ## Frequently Asked Questions
 
 **Wow, a smoking ban? Isn't that a bit harsh?**  
-It's the only way to ensure that residents of Fairlington Villages can enjoy their homes, patios and balconies without second-hand smoke.
+It's the only way to ensure that residents of Fairlington Villages can enjoy their homes, patios and balconies without second-hand smoke. [In a recent survey](files/survey-results.pdf), at least 61% of Fairlington Villages residents were open to a ban.
 
 **Would a smoking ban be legal?**  
 Yes. In 2021, Virginia passed a law allowing a simple majority of any condo board to prohibit smoking within units and in common areas. It was codified as [§ 55.1-1960.1](https://law.lis.virginia.gov/vacode/title55.1/chapter19/section55.1-1960.1/). A press release describing the law [is available here](https://www.potomaclocal.com/2021/01/21/bill-to-allowing-virginia-landlords-to-ban-smoking-passes-house-heads-to-senate/).
@@ -28,7 +28,7 @@ When Fairlington residents smoke, it is not just a personal decision. Smoking af
 The only way to keep it that way is to put a smoking ban in place. Otherwise, a smoker could move in next to you at any time.
 
 **I don't care about second-hand smoke. The smell doesn't bother me.**  
-The smell bothers most people, including homebuyers. Homes that smell like smoke sell for much less. A homebuyer recently backed out of a contingent home purchase due to Fairlington Villages' lack of a no-smoking policy. Our neighbors with asthma also care a great deal.
+The smell bothers at least 71% of Fairlington Villages residents [according to a recent survey](files/survey-results.pdf). The smell bothers prospective homebuyers, too. Homes that smell like smoke sell for much less. A homebuyer recently backed out of a contingent home purchase due to Fairlington Villages' lack of a no-smoking policy. Our neighbors with asthma also care a great deal.
 
 **I've never heard of anyone having an issue with second-hand smoke in Fairlington.**  
 It's a common complaint among residents here. It's often mentioned in the Fairlington Villages newsletter. [You can read some of our neighbors' experiences with second-hand smoke in our community here.](experiences.html)
