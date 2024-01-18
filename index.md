@@ -31,7 +31,7 @@ The only way to keep it that way is to put a smoking ban in place. Otherwise, a 
 The smell bothers at least 71% of Fairlington Villages residents [according to a recent survey](files/survey-results.pdf). The smell bothers prospective homebuyers, too. Homes that smell like smoke sell for much less. A homebuyer recently backed out of a contingent home purchase due to Fairlington Villages' lack of a no-smoking policy. Our neighbors with asthma also care a great deal.
 
 **I've never heard of anyone having an issue with second-hand smoke in Fairlington.**  
-It's a common complaint among residents here. It's often mentioned in the Fairlington Villages newsletter.
+It's a common complaint among residents here. It's often mentioned in the Fairlington Villages newsletter. [You can read some of our neighbors' experiences with second-hand smoke in our community here.](experiences.html)
 
 **What's next, a ban on barbecue? A ban on strong-smelling food?**  
 Employing a "slippery slope" argument is a failure to engage with the matter at hand. [The Virginia statute](https://law.lis.virginia.gov/vacode/title55.1/chapter19/section55.1-1960.1/) creates a streamlined and explicit pathway for banning smoking — nothing else — because second-hand smoke causes cancer and is wildly unpopular. If residents have good-faith issues with other odors or habits, they are free to raise them with the community.
