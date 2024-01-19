@@ -7,9 +7,9 @@
 }
 </style>
 
-## Experience with Second-Hand Smoke
+## Testimony from Neighbors about Second-Hand Smoke
 
-Here are some experiences that our Fairlington Villages neighbors have had with second-hand smoke. Most of these are sourced from the Fairlington Villages Quality of Life Survey in late 2023.
+The quotes below are testmony from our Fairlington Villages neighbors who have dealt with second-hand smoke. Most of these are sourced from the Fairlington Villages Quality of Life Survey in late 2023.
 
 - "There was a chain smoker that lived next door to me for nearly 3 years. The stench was unbearable and would come into my unit and back patio. You could smell it from the sidewalk. When the home was sold and remodeled, the new owner had to gut the unit with new drywall and staircase because the smoke was absorbed into the walls and wood. This smoke affected the entire building and because the prior owner was a heavy drinker, the potential for fire damage was high risk."
 - "I spent thousands of dollars when I was remodeling my kitchen to have the walls patched and painted with Kilz to eliminate the smoke smell from my neighbor. I ended up needing to have them do the same in the upstairs bathroom too. She just moved out, and I’m hoping the owner won’t rent to another smoker."
