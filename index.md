@@ -55,7 +55,7 @@ Smoking in perpetuity in and around one's home was never guaranteed. Cultural no
 Yes, including several in Arlington and Alexandria. None have yet done so in Fairlington.
 
 **How would we handle enforcement?**  
-Enforcement practices would be spelled out in a smoking policy which would formalize the smoking ban. We are learning about enforcement practices from local condo associations who have already banned smoking. By their accounts, their efforts have been successful.
+Fairlington Villages [already has a Rules Enforcement policy](https://fairlingtonvillages.com/wp-content/uploads/sites/647/2021/01/Rules-Enforcement-Policy.pdf) which can be used to address smoking, or amended if necessary. Additionally, we are learning about enforcement practices from local condo associations who have already banned smoking. By their accounts, their efforts have been successful.
 
 **We will never convince enough people to make this happen.**  
 We only need to convince five out of nine members of the Fairlington Villages board. Some are already supportive.
