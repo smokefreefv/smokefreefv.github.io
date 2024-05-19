@@ -77,7 +77,7 @@ You can work toward a smoke-free Fairlington Villages by doing the following:
 | 1        | Kate Lankford      | [ward1fairlington@gmail.com](mailto:ward1fairlington@gmail.com) |
 | 2        | Donna Volpone      | [dvolpone@icloud.com](mailto:dvolpone@icloud.com)               |
 | 3        | Harry Reem         | [hnreem@comcast.net](mailto:hnreem@comcast.net)                 |
-| 4        | Larry Straub       | [larrystraub93@gmail.com](mailto:larrystraub93@gmail.com)       |
+| 4        | Douglas Faherty    | [doug.in.wardiv@gmail.com](mailto:doug.in.wardiv@gmail.com)       |
 | 5        | Phil Brown         | [PBrownBoard@pjb3.com](mailto:PBrownBoard@pjb3.com)             |
 | 6        | Melanie Alvord     | [mellie.ward6@comcast.net](mailto:mellie.ward6@comcast.net)     |
 
