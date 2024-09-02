@@ -9,14 +9,14 @@
 
 ## Summary
 
-Second-hand smoke jeopardizes the health, safety, and comfort of residents in our community. We are residents of Fairlington Villages requesting that the Board of Directors enact a policy that prohibits smoking within all units, patios, balconies, and common areas.
+Second-hand smoke jeopardizes the health, safety, and comfort of residents in our community. We are residents of Fairlington Villages requesting that the Board of Directors enact a policy that prohibits smoking within all homes, patios, balconies, and common areas.
 
 [⬇️ How to support the effort](#how-to-support)
 
 ## Frequently Asked Questions
 
 **Wow, a smoking ban? Isn't that a bit harsh?**  
-It's the only way to ensure that residents of Fairlington Villages can enjoy their homes, patios and balconies without second-hand smoke. [In a recent survey](files/survey-results.pdf), at least 61% of Fairlington Villages residents were open to a ban.
+It's the only way to ensure that residents of Fairlington Villages can enjoy their homes, patios, balconies, and common areas without second-hand smoke. [In a recent survey](files/survey-results.pdf), at least 61% of Fairlington Villages residents were open to a ban.
 
 **Would a smoking ban be legal?**  
 Yes. In 2021, Virginia passed a law allowing a simple majority of any condo board to prohibit smoking within units and in common areas. It was codified as [§ 55.1-1960.1](https://law.lis.virginia.gov/vacode/title55.1/chapter19/section55.1-1960.1/). A press release describing the law [is available here](https://www.potomaclocal.com/2021/01/21/bill-to-allowing-virginia-landlords-to-ban-smoking-passes-house-heads-to-senate/).
@@ -49,7 +49,7 @@ Any nonsmoker living in or around such an area would be furious. It's not practi
 Cigarette smokers can chew nicotine gum or use nicotine patches. Cannabis smokers can consume edibles.
 
 **Is this fair to people who bought homes expecting that they would be able to smoke?**  
-Smoking in perpetuity in and around one's home was never guaranteed. Cultural norms have changed. We tolerate smoking in far fewer places than we used to, which most people regard as an improvement. People can now expect smoke-free air at a mall or restaurant. The same should be true in our homes, patios and balconies.
+Smoking in perpetuity in and around one's home was never guaranteed. Cultural norms have changed. We tolerate smoking in far fewer places than we used to, which most people regard as an improvement. People can now expect smoke-free air at a mall or restaurant. The same should be true in our homes, patios, balconies, and common areas.
 
 **Has any other local condo association implemented a ban like this?**  
 Yes, including several in Arlington and Alexandria. None have yet done so in Fairlington.
@@ -65,20 +65,20 @@ We only need to convince five out of nine members of the Fairlington Villages bo
 You can work toward a smoke-free Fairlington Villages by doing the following:
 
 - **Sign the petition.** [An online petition is available here.](https://docs.google.com/forms/d/e/1FAIpQLSezUZH42kQHHs5qPNJCSO-hwNnBhsD6h9xtpJQD9-REoAPhbw/viewform?usp=sf_link) The petition will be provided to board members to show support for the cause. More than one adult per household may sign — please invite spouses, partners and roommates to have their say.
-- **Share this webpage with your neighbors.** Help fellow residents understand that a smoking ban is desirable and possible.
-- **Speak at a Fairlington Villages board meeting in support of a smoking ban.** Board members can be swayed by personal testimony, especially from those who have had adverse experiences with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You can speak in person or on Zoom. You do not need to sign up ahead of time to speak.
 - **Email board members and express your support of a smoking ban.** We'd recommend at least contacting the board member for your ward as well as the at-large board members. If you're not sure which ward you're in, [view this ward map](images/ward-map.png). If you have personal experience with second-hand smoke, make sure to describe that in your email.
+- **Speak at a Fairlington Villages board meeting in support of a smoking ban.** Board members can be persuaded by personal testimony, especially from those who have had adverse experiences with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You can speak in person or on Zoom. You do not need to sign up ahead of time to speak.
+- **Share this webpage with your neighbors.** Help fellow residents understand that a smoking ban is desirable and possible.
 
-| Ward     | Name               | Email                                                           |
-| -------- | ------------------ | --------------------------------------------------------------- |
-| At Large | Joe Torres         | [Fairlington123@yahoo.com](mailto:Fairlington123@yahoo.com)     |
-| At Large | Andi Dies          | [multiboard@verizon.net](mailto:multiboard@verizon.net)         |
-| At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)           |
-| 1        | Kate Lankford      | [ward1fairlington@gmail.com](mailto:ward1fairlington@gmail.com) |
-| 2        | Donna Volpone      | [dvolpone@icloud.com](mailto:dvolpone@icloud.com)               |
-| 3        | Harry Reem         | [hnreem@comcast.net](mailto:hnreem@comcast.net)                 |
-| 4        | Douglas Faherty    | [doug.in.wardiv@gmail.com](mailto:doug.in.wardiv@gmail.com)       |
-| 5        | Phil Brown         | [PBrownBoard@pjb3.com](mailto:PBrownBoard@pjb3.com)             |
-| 6        | Melanie Alvord     | [mellie.ward6@comcast.net](mailto:mellie.ward6@comcast.net)     |
+| Ward     | Name               | Email                                                           | Up for Election |
+| -------- | ------------------ | --------------------------------------------------------------- | --------------- |
+| At Large | Joe Torres         | [Fairlington123@yahoo.com](mailto:Fairlington123@yahoo.com)     | Spring 2027     |
+| At Large | Andi Dies          | [multiboard@verizon.net](mailto:multiboard@verizon.net)         | Spring 2026     |
+| At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)           | Spring 2025     |
+| 1        | Kate Lankford      | [ward1fairlington@gmail.com](mailto:ward1fairlington@gmail.com) | Spring 2025     |
+| 2        | Donna Volpone      | [dvolpone@icloud.com](mailto:dvolpone@icloud.com)               | Spring 2027     |
+| 3        | Harry Reem         | [hnreem@comcast.net](mailto:hnreem@comcast.net)                 | Spring 2026     |
+| 4        | Douglas Faherty    | [doug.in.wardiv@gmail.com](mailto:doug.in.wardiv@gmail.com)     | Spring 2027     |
+| 5        | Phil Brown         | [PBrownBoard@pjb3.com](mailto:PBrownBoard@pjb3.com)             | Spring 2026     |
+| 6        | Melanie Alvord     | [mellie.ward6@comcast.net](mailto:mellie.ward6@comcast.net)     | Spring 2025     |
 
 **Thank you for your support!**
