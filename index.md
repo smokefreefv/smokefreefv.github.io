@@ -28,7 +28,7 @@ When Fairlington residents smoke, it is not just a personal decision. Smoking af
 The only way to keep it that way is to put a smoking ban in place. Otherwise, a smoker could move in next to you at any time.
 
 **I don't care about second-hand smoke. The smell doesn't bother me.**  
-The smell bothers at least 71% of Fairlington Villages residents [according to a recent survey](files/survey-results.pdf). The smell bothers prospective homebuyers, too. Homes that smell like smoke sell for much less. A homebuyer recently backed out of a contingent home purchase due to Fairlington Villages' lack of a no-smoking policy. Our neighbors with asthma also care a great deal.
+The smell bothers at least 71% of Fairlington Villages residents [according to a recent survey](files/survey-results.pdf#page=2). The smell bothers prospective homebuyers, too. Homes that smell like smoke sell for much less. A homebuyer recently backed out of a contingent home purchase due to Fairlington Villages' lack of a no-smoking policy. Our neighbors with asthma also care a great deal.
 
 **I've never heard of anyone having an issue with second-hand smoke in Fairlington.**  
 It's a common complaint among residents here. It's often mentioned in the Fairlington Villages newsletter. [You can read some of our neighbors' experiences with second-hand smoke in our community here.](testimony.html)

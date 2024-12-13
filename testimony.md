@@ -9,7 +9,7 @@
 
 ## Testimony from Neighbors about Second-Hand Smoke
 
-The quotes below are testmony from our Fairlington Villages neighbors who have dealt with second-hand smoke. Most of these are sourced from the Fairlington Villages Quality of Life Survey in late 2023.
+The quotes below are testmony from our Fairlington Villages neighbors who have dealt with second-hand smoke. Most of these are sourced from the [Fairlington Villages Quality of Life Survey in late 2023](/files/survey-results.pdf#page=6).
 
 - "There was a chain smoker that lived next door to me for nearly 3 years. The stench was unbearable and would come into my unit and back patio. You could smell it from the sidewalk. When the home was sold and remodeled, the new owner had to gut the unit with new drywall and staircase because the smoke was absorbed into the walls and wood. This smoke affected the entire building and because the prior owner was a heavy drinker, the potential for fire damage was high risk."
 - "I spent thousands of dollars when I was remodeling my kitchen to have the walls patched and painted with Kilz to eliminate the smoke smell from my neighbor. I ended up needing to have them do the same in the upstairs bathroom too. She just moved out, and I’m hoping the owner won’t rent to another smoker."
@@ -26,3 +26,4 @@ The quotes below are testmony from our Fairlington Villages neighbors who have d
 - "There's a certain area of the neighborhood where I walk and every time I walk by it reeks of cigarette smoke, I imagine it must be awful for the non-smokers who live there. It's bad enough just walking by as the smoke smell lingers permanently.
 - "Bothered by smoke when we have our door/window open and smokes drifts down from upper balcony."
 - "The fear of a smoker moving in nextdoor was my only hesitation about buying in Fairlington. Second hand smoke causes lung cancer, can seep through the walls, and ruins the use of outdoor space. Please, please, please prohibit smoking in Fairlington."
+- "As a condo owner, having a smoker in the building has caused significant issues for me and my renters. Despite being in a shared community where everyone should be able to live peacefully, the smell of smoke travels through vents and shared spaces, leading to frequent complaints from my tenants. This not only disrupts their quality of life but also puts me at risk of losing good renters, which directly affects my financial stability and the building’s overall reputation. Homeownership should come with the expectation of a safe, clean living environment—not ongoing battles over something as disruptive as secondhand smoke."
