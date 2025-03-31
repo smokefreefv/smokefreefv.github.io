@@ -73,12 +73,12 @@ You can work toward a smoke-free Fairlington Villages by doing the following:
 | -------- | ------------------ | --------------------------------------------------------------- | --------------- |
 | At Large | Joe Torres         | [Fairlington123@yahoo.com](mailto:Fairlington123@yahoo.com)     | Spring 2027     |
 | At Large | Andi Dies          | [multiboard@verizon.net](mailto:multiboard@verizon.net)         | Spring 2026     |
-| At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)           | Spring 2025     |
-| 1        | Kate Lankford      | [ward1fairlington@gmail.com](mailto:ward1fairlington@gmail.com) | Spring 2025     |
+| At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)           | Spring 2028     |
+| 1        | Anthony Radich     | [ward1fairlington@gmail.com](mailto:ward1fairlington@gmail.com) | Spring 2028     |
 | 2        | Donna Volpone      | [dvolpone@icloud.com](mailto:dvolpone@icloud.com)               | Spring 2027     |
 | 3        | Harry Reem         | [hnreem@comcast.net](mailto:hnreem@comcast.net)                 | Spring 2026     |
 | 4        | Douglas Faherty    | [doug.in.wardiv@gmail.com](mailto:doug.in.wardiv@gmail.com)     | Spring 2027     |
 | 5        | Phil Brown         | [PBrownBoard@pjb3.com](mailto:PBrownBoard@pjb3.com)             | Spring 2026     |
-| 6        | Melanie Alvord     | [mellie.ward6@comcast.net](mailto:mellie.ward6@comcast.net)     | Spring 2025     |
+| 6        | Melanie Alvord     | [mellie.ward6@comcast.net](mailto:mellie.ward6@comcast.net)     | Spring 2028     |
 
 **Thank you for your support!**
