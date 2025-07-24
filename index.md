@@ -69,16 +69,16 @@ You can work toward a smoke-free Fairlington Villages by doing the following:
 - **Speak at a Fairlington Villages board meeting in support of a smoking ban.** Board members can be persuaded by personal testimony, especially from those who have had adverse experiences with second-hand smoke. Check the [Fairlington Villages homepage](https://fairlingtonvillages.com/) for the meeting schedule, but they are typically early in each month on Wednesdays at 7 PM. You can speak in person or on Zoom. You do not need to sign up ahead of time to speak.
 - **Share this webpage with your neighbors.** Help fellow residents understand that a smoking ban is desirable and possible.
 
-| Ward     | Name               | Email                                                           | Up for Election |
-| -------- | ------------------ | --------------------------------------------------------------- | --------------- |
-| At Large | Joe Torres         | [Fairlington123@yahoo.com](mailto:Fairlington123@yahoo.com)     | Spring 2027     |
-| At Large | Andi Dies          | [multiboard@verizon.net](mailto:multiboard@verizon.net)         | Spring 2026     |
-| At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)           | Spring 2028     |
-| 1        | Tony Radich        |                                                                 | Spring 2028     |
-| 2        | Donna Volpone      | [dvolpone@icloud.com](mailto:dvolpone@icloud.com)               | Spring 2027     |
-| 3        | Harry Reem         | [hnreem@comcast.net](mailto:hnreem@comcast.net)                 | Spring 2026     |
-| 4        | Douglas Faherty    | [doug.in.wardiv@gmail.com](mailto:doug.in.wardiv@gmail.com)     | Spring 2027     |
-| 5        | Phil Brown         | [PBrownBoard@pjb3.com](mailto:PBrownBoard@pjb3.com)             | Spring 2026     |
-| 6        | Melanie Alvord     | [mellie.ward6@comcast.net](mailto:mellie.ward6@comcast.net)     | Spring 2028     |
+| Ward     | Name               | Email                                                                   | Up for Election |
+| -------- | ------------------ | ----------------------------------------------------------------------- | --------------- |
+| At Large | Andi Dies          | [multiboard@verizon.net](mailto:multiboard@verizon.net)                 | Spring 2026     |
+| At Large | Joe Torres         | [Fairlington123@yahoo.com](mailto:Fairlington123@yahoo.com)             | Spring 2027     |
+| At Large | Karen Olson Weaver | [karen@olsonweaver.com](mailto:karen@olsonweaver.com)                   | Spring 2028     |
+| 1        | Tony Radich        | [Fairlington_Ward_1@outlook.com](mailto:Fairlington_Ward_1@outlook.com) | Spring 2028     |
+| 2        | Donna Volpone      | [dvolpone@icloud.com](mailto:dvolpone@icloud.com)                       | Spring 2027     |
+| 3        | Harry Reem         | [hnreem@comcast.net](mailto:hnreem@comcast.net)                         | Spring 2026     |
+| 4        | Douglas Faherty    | [doug.in.wardiv@gmail.com](mailto:doug.in.wardiv@gmail.com)             | Spring 2027     |
+| 5        | Phil Brown         | [PBrownBoard@pjb3.com](mailto:PBrownBoard@pjb3.com)                     | Spring 2026     |
+| 6        | Melanie Alvord     | [mellie.ward6@comcast.net](mailto:mellie.ward6@comcast.net)             | Spring 2028     |
 
 **Thank you for your support!**
